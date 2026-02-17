@@ -1,9 +1,9 @@
 Note: Provide the fullname
 
 Members:
-Anne Loraine D. Tronco
-Sandara C. Urbanozo
-Yhesha V. Ruales
+Anne Loraine D. Tronco,
+Sandara C. Urbanozo,
+Yhesha V. Ruales,
 Elizabeth G. Sorreñio
 
 
