@@ -1,10 +1,10 @@
 Note: Provide the fullname
 
 Members:
-Tronco
-Urbanozo
-Ruales
-Sorrenio
+Anne Loraine D. Tronco
+Sandara C. Urbanozo
+Yhesha V. Ruales
+Elizabeth G. Sorreñio
 
 
 🚀 CodeIgniter 4 CRUD Application (CI4-CRUD)
